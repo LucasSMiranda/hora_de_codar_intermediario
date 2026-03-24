@@ -16,6 +16,8 @@ int main()
     printf("Digite sua  terceira nota:\n");
     scanf("%d", &nota3);
 
+    media (nota1+nota2+nota3)/3;
+
 
 
     return 0;
